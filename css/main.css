@@ -1,0 +1,36 @@
+ul{
+  background-color: Blue;
+  margin: 100px 50px 25px 50px;
+  /* 1st:top 2nd:right 3rd:bottm 4th:left*/
+  padding: 75px;
+}
+
+li{
+  background-color: purple;
+  display: inline;
+  padding: 5px;
+}
+.box{
+  float: left;
+  width:  50%
+}
+
+img{
+   margin: 5px;
+   padding: 50px;
+   border: 5px solid gold;
+
+
+}
+
+.green{
+  color :green;
+}
+
+
+.box p{
+  background-color: yellow;
+  border: 2px double gold;
+  margin: 5px;
+  padding: 10px;
+}
